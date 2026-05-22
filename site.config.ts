@@ -1,7 +1,7 @@
 import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
-  rootNotionPageId: '256b59d9b4c9803aa2cfeaee0bb29451',
+  rootNotionPageId: '368b59d9b4c98043a3f3c289f39f6ce0',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -9,12 +9,12 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Widget Slice Design',
-  domain: 'widget-slice-design.davidshekunts.ru',
+  domain: 'widget-slice-design.davids.sh',
   author: '👨🏻 David Shekunts 👴🏿',
 
   // open graph metadata (optional)
   description:
-    'Widget Slice Design – подход для удобного и быстрого написания модульного масштабируемого фронтенда для приложений любого размера.',
+    'Widget Slice Design – .',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
