@@ -1,20 +1,20 @@
 import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
-  rootNotionPageId: '253b59d9b4c980f9b263e1b99a104e9f',
+  rootNotionPageId: '256b59d9b4c9803aa2cfeaee0bb29451',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Записки с High Load',
-  domain: 'high-load-notes.davidshekunts.ru',
+  name: 'Widget Slice Design',
+  domain: 'widget-slice-design.davidshekunts.ru',
   author: '👨🏻 David Shekunts 👴🏿',
 
   // open graph metadata (optional)
   description:
-    'Записки с High Load – 52 best-practice для разработки high load приложений.',
+    'Widget Slice Design – подход для удобного и быстрого написания модульного масштабируемого фронтенда для приложений любого размера.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
